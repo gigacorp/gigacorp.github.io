@@ -1,0 +1,16 @@
+body {
+  font-family: "Menlo", monospace;
+  font-weight: 400;
+  max-width: 462px;
+  margin: 42px auto;
+  padding: 0 24px;
+  line-height: 1.6;
+  font-size: 11px;
+  color: #000;
+  background-color: #fff;
+}
+h1, h2 { font-size: inherit; font-weight: bold; }
+h1 { margin: 0 0 24px; }
+h2 { margin: 24px 0 4px; }
+p { margin: 0 0 12px; }
+a { color: inherit; }
